@@ -1,0 +1,14 @@
+D/CMSIS////
+D/HAL////
+/Makefile/1.1/Fri Nov  3 05:41:16 2017//
+/STM32L432KCUx_FLASH.ld/1.1/Fri Nov  3 05:04:37 2017//
+/l432_bob.ioc/1.1/Fri Nov  3 05:33:10 2017//
+/led.h/1.1/Fri Nov  3 05:06:14 2017//
+/main.c/1.1/Fri Nov  3 05:40:19 2017//
+/openocd_stlink-v2.1.cfg/1.1/Fri Nov  3 05:04:37 2017//
+/printf.c/1.1/Fri Nov  3 05:04:37 2017//
+/printf.h/1.1/Fri Nov  3 05:04:37 2017//
+/stm32l4xx_hal_conf.h/1.1/Fri Nov  3 05:04:37 2017//
+/usart.c/1.1/Fri Nov  3 05:38:20 2017//
+/usart.h/1.1/Fri Nov  3 05:04:37 2017//
+/led.c/1.2/Sat Nov  4 02:20:32 2017//
